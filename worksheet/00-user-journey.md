@@ -28,7 +28,7 @@
 6. What is the average weather like in Sapa in December?
 ```
 
-### Tourist #3 (Tên thành viên: __________)
+### Tourist #3 (Tên thành viên: Lê Hồng Quân)
 
 ```text
 1. My flight lands in Hanoi, but I also want to visit Ninh Binh. Is that realistic in 4 days?
