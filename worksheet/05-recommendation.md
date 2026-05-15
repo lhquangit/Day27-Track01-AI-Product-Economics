@@ -50,7 +50,7 @@ Nhóm recommend Smart Mix là cấu hình phù hợp nhất để triển khai c
 
 ## Chia role task thành 3 phần
 
-### Phần 1 — Nguyễn Quốc Nam
+### Phần 1 — Nguyễn Quốc Nam - 2A202600201
 
 **Phụ trách**: mở bài, base flow, 3 knobs và chốt recommendation cuối.
 
@@ -62,7 +62,7 @@ Từ đó nhóm chọn 3 knobs chính để so sánh là model tier, web search 
 Sau khi tính cost cho 3 cấu hình, nhóm recommend Smart Mix vì đây là điểm cân bằng tốt nhất giữa cost thấp và chất lượng đủ an toàn để deploy.
 ```
 
-### Phần 2 — Đỗ Trọng Minh
+### Phần 2 — Đỗ Trọng Minh - 2A202600464
 
 **Phụ trách**: trình bày bảng cost comparison và key insight từ số liệu.
 
@@ -74,7 +74,7 @@ Tuy vậy cả 3 cấu hình đều rẻ hơn human baseline rất xa; khác bi�
 Một insight quan trọng là Scenario B không tăng chi phí gấp 7 lần vì tỷ lệ Booking và Complaint tăng lên 45%, nghĩa là nhiều conversation được handoff sớm.
 ```
 
-### Phần 3 — Lê Hồng Quân
+### Phần 3 — Lê Hồng Quân - 2A202600097
 
 **Phụ trách**: nêu rủi ro, ngưỡng upgrade/downgrade và xử lý Q&A.
 
