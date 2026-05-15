@@ -62,7 +62,7 @@ Từ đó nhóm chọn 3 knobs chính để so sánh là model tier, web search 
 Sau khi tính cost cho 3 cấu hình, nhóm recommend Smart Mix vì đây là điểm cân bằng tốt nhất giữa cost thấp và chất lượng đủ an toàn để deploy.
 ```
 
-### Phần 2 — __________
+### Phần 2 — Đỗ Trọng Minh
 
 **Phụ trách**: trình bày bảng cost comparison và key insight từ số liệu.
 
@@ -120,7 +120,6 @@ Với chatbot du lịch, phần Visa là nơi rủi ro sai thông tin cao nhất
 - [x] Đã trả lời đủ 4 câu PM
 - [x] Đã có final paragraph 5-7 câu
 - [x] Đã chia role task thành 3 phần
-- [x] Một phần đã điền tên Nguyễn Quốc Nam, 2 phần còn lại để trống
 - [x] Đã chuẩn bị trước câu hỏi khó và câu trả lời
 
 Xong → sẵn sàng present.
