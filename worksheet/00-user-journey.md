@@ -6,7 +6,7 @@
 
 ## Bước 1 — Mỗi người đóng vai 1 tourist
 
-### Tourist #1 (Tên thành viên: Nguyễn Quốc Nam)
+### Tourist #1 (Tên thành viên: Nguyễn Quốc Nam - 2A202600201)
 
 ```text
 1. Hi, I am visiting Vietnam for 7 days in September. Which cities should I prioritize if my budget is around $1,200?
@@ -17,7 +17,7 @@
 6. Is it safe to eat street food if I am traveling with my 10-year-old child?
 ```
 
-### Tourist #2 (Tên thành viên: Đỗ Trọng Minh)
+### Tourist #2 (Tên thành viên: Đỗ Trọng Minh - 2A202600464)
 
 ```text
 1. I will arrive in Ho Chi Minh City at night. Which area is best to stay for first-time visitors?
@@ -28,7 +28,7 @@
 6. What is the average weather like in Sapa in December?
 ```
 
-### Tourist #3 (Tên thành viên: Lê Hồng Quân)
+### Tourist #3 (Tên thành viên: Lê Hồng Quân- 2A202600097)
 
 ```text
 1. My flight lands in Hanoi, but I also want to visit Ninh Binh. Is that realistic in 4 days?
