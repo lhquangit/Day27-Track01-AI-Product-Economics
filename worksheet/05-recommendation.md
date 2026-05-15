@@ -74,7 +74,7 @@ Tuy vậy cả 3 cấu hình đều rẻ hơn human baseline rất xa; khác bi�
 Một insight quan trọng là Scenario B không tăng chi phí gấp 7 lần vì tỷ lệ Booking và Complaint tăng lên 45%, nghĩa là nhiều conversation được handoff sớm.
 ```
 
-### Phần 3 — __________
+### Phần 3 — Lê Hồng Quân
 
 **Phụ trách**: nêu rủi ro, ngưỡng upgrade/downgrade và xử lý Q&A.
 
