@@ -17,7 +17,7 @@
 6. Is it safe to eat street food if I am traveling with my 10-year-old child?
 ```
 
-### Tourist #2 (Tên thành viên: __________)
+### Tourist #2 (Tên thành viên: Đỗ Trọng Minh)
 
 ```text
 1. I will arrive in Ho Chi Minh City at night. Which area is best to stay for first-time visitors?
